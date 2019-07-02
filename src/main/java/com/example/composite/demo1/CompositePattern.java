@@ -7,6 +7,7 @@ package com.example.composite.demo1;
 public class CompositePattern {
 
     public static void main(String[] args) {
+		
         Component component = new Composite();
         Component component1 = new Composite();
         Component leaf = new Leaf("1");
