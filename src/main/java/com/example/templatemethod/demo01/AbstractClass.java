@@ -1,4 +1,4 @@
-package com.example.templateMethod.demo01;
+package com.example.templatemethod.demo01;
 
 /**
  * 抽象类

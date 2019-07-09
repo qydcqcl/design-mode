@@ -1,4 +1,4 @@
-package com.example.templateMethod.demo02;
+package com.example.templatemethod.demo02;
 
 /**
  * 抽象类： 出国留学

@@ -1,4 +1,4 @@
-package com.example.templateMethod.demo02;
+package com.example.templatemethod.demo02;
 
 /**
  * @author hzq
